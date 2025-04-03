@@ -1,0 +1,17 @@
+h1{
+    font-size: 36px;
+    color: #B72F16;
+}
+*{
+    font-family: monospace;
+    font: 1em Courier;
+}
+h2{
+    font-size: 30px;
+}
+ol{
+    font-size: 24px;
+}
+a{
+    font-size: 24px;
+}
